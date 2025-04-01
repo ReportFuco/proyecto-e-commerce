@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1743532784808",
+    "title": "Polera Techno Black",
+    "description": "Polera negra con diseño minimalista techno",
+    "code": "TECH001",
+    "price": 25.99,
+    "status": true,
+    "stock": 30,
+    "category": "ropa",
+    "thumbnails": [
+      "img/polera1.jpg"
+    ]
+  }
+]
